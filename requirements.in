@@ -1,0 +1,8 @@
+pip-compile-multi
+pip-tools
+black
+
+sympy
+matplotlib
+notebook
+ipykernel
